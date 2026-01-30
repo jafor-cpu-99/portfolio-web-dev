@@ -165,3 +165,30 @@ img{
     color: #757575;
     font-weight: 500;
 }
+#summary{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+}
+#last{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.summary-f{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: 100px;
+}
+.summary-s{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
