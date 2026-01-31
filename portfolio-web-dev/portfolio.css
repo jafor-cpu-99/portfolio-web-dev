@@ -221,3 +221,53 @@ img{
     align-items: center;
     height: 100px;
 }
+#contact-me{ background-color:  #FFF8F3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#contact-me div{ 
+    width: 460px;
+    height: 500px;
+}
+#extra{
+    
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+#extra1{
+    margin-top: 200px;
+    height: 100px;
+}
+#extra2{
+   display: flex;
+   flex-direction: column;
+   margin-top: 50px;
+}
+.bili{
+    height : 40px;
+    width: 300px;
+    margin-left: 80px;
+}
+
+#submit-button{
+    width: 5px;
+    
+    border-radius: 5px;
+}
+#taramara{
+    margin-left: 80px;
+    width: 300px;
+    height: 150px;
+    
+}
+#submit-button{
+    background-color: #FD6E0A;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 80px;
+}
