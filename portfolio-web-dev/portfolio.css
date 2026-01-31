@@ -165,10 +165,12 @@ img{
     color: #757575;
     font-weight: 500;
 }
-#summary{
-    background-color: aquamarine;
+#summary{ 
+   
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    
 }
 #last{
     font-size: 50px;
@@ -182,13 +184,40 @@ img{
     justify-content: center;
     align-items: center;
     
+    
     margin-left: 100px;
 }
 .summary-s{
+    
     display: flex;
     flex-direction: column;
+   
+    height: 175px;
+    width: 511px;
+    
+    
+}
+.head2{
+    margin-bottom: 5px;
+ 
+ font-weight: bold;
+ color: #474747;
+}
+.head4{ 
+    font-weight: semi-bold;
+    color:#757575;
+    margin-top:0px;
+}
+.pa{
+    width: 511px;
+    height: 84px;
+    color: #757575;
+    
+}
+#button{
+    
+    display: flex;
     justify-content: center;
     align-items: center;
-    
-    
+    height: 100px;
 }
